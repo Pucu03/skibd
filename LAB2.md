@@ -1,1 +1,2 @@
-# skibd
+# Ćwiczenie nr 2
+
