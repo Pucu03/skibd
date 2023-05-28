@@ -44,7 +44,23 @@
 * Loguje się na konto zajęciowe mts
 
 ## 11
+![image](https://github.com/Pucu03/skibd/assets/92114245/916c14e4-63ae-44a7-8fdc-ded5fa4f740d)
 
+## 12
+* Sposób kodowania, który prawidłowo odczytuje polskie znaki to UTF-8
+
+## 14
+* UTF-8
+
+![image](https://github.com/Pucu03/skibd/assets/92114245/7bb471c8-13db-4b20-98b0-b5d6675c5e78)
+
+* UTF-16
+
+![image](https://github.com/Pucu03/skibd/assets/92114245/a865e3c0-5e75-4ddd-806c-b6471828525b)
+
+* UTF-32
+
+![image](https://github.com/Pucu03/skibd/assets/92114245/3afbc84e-570c-436e-9654-5d14f6190bed)
 
 
 
