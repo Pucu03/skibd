@@ -14,12 +14,13 @@
 
 ## 4
 * Zapisuje 3 różne grafiki
+
 ![karate](https://user-images.githubusercontent.com/92114245/235985646-490a31be-bc92-4a1c-85e4-deddad37b73e.png)
 ![muzyka](https://user-images.githubusercontent.com/92114245/235985665-f458ff23-01ff-4bd8-bd40-05638d977c88.jpg)
 ![logo_wimir](https://user-images.githubusercontent.com/92114245/235985725-d939711f-755f-48ab-a501-af3291479979.png)
 
 ## 5
-*Wysyłam pliki na serwer
+* Wysyłam pliki na serwer
 ![image](https://user-images.githubusercontent.com/92114245/235986574-6bee700e-4874-4830-9c6a-a3c66086df2a.png)
 
 ## 6
