@@ -56,4 +56,21 @@
 
 * Brak akceptacji plików cookie sprawia, że reklamy nie ładują się, a sama strona jest mniej dopasowana pod nas
 
+## 9
+* Google: dokładne wyniki, duża liczba trafień, szybkie działanie. Zapewnia dodatkowe narzędzia, takie jak kalkulatory i przeliczniki walut.
+* DuckDuckGo: dobrewyniki, niska liczba trafień, dobra ochrona prywatności. Działa trochę wolno.
+* Bing: dobre wyniki, podobna liczba trafień jak w Google, dobre narzędzia dodatkowe. Dobra szybkość, ale nie tak dobra jak Google.
+* Yahoo: wyniki podobne do Bing, duża liczba trafień. Prędkość jest średnia.
+* Ask: dobre wyniki, mniejsza liczba trafień, bardziej skupia się na odpowiadaniu na pytania. Jest dość użyteczna.
+
+*Najbardziej wyróżnia się Google, zawierjące dużą ilość dodatków ułatwiających wyszukiwanie informacji.
+
+## 10 
+* Korzystanie z serwera proxy chroni prywatność i odblokowuje treści ;HTTPS jest bezpieczniejszym protokołem niż HTTP,a szyfrowanie danych chroni ich poufność i integralność.
+
+## 11
+* Istnieją różnice między HTTP (Hypertext Transfer Protocol) i HTTPS (Hypertext Transfer Protocol Secure) pod względem bezpieczeństwa komunikacji: HTTP nie zapewnia bezpieczeństwa danych, a wszystkie informacje są przesyłane w postaci niezaszyfrowanej. HTTPS jest rozszerzeniem protokołu HTTP, zapewniającym szyfrowanie danych, poufność, integralność i uwierzytelnianie za pośrednictwem SSL/TLS. HTTPS jest zatem bezpieczniejszy i zalecany do przesyłania poufnych informacji przez Internet.
+
+
+
 
